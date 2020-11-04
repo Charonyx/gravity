@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\chura\source\repos\gravity\gravity\Player.h(21,30): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  gravity.vcxproj -> C:\Users\chura\source\repos\gravity\x64\Debug\gravity.exe
